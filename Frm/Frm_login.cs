@@ -17,7 +17,7 @@ namespace Pjt_Projeto
         public Frm_login()
         {
             InitializeComponent();
-
+            //çwjetgjçerofhw~th~jehaerpg8j
           
         }
 
